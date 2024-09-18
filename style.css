@@ -1,0 +1,52 @@
+.holder {
+    width: 100%;
+    max-width: 1500px;
+    
+}
+
+.item-1 {
+    width: 50%;
+    background-color: red;
+    height: 250px;
+    max-width: 1000px;
+}
+
+.item-5 {
+    width: 50%;
+    background-color: orange;
+    height: 250px;
+    max-width: 1000px;
+    margin-left: 750px;
+    margin-top: -500px;
+}
+
+.item-3 {
+    width: 50%;
+    background-color: purple;
+    height: 250px;
+    max-width: 525px;
+    margin-top: -250px;
+    
+}
+
+.item-2 {
+    width: 50%;
+    background-color: blue;
+    height: 250px;
+    max-width: 525px;
+    margin-left: 525px;
+   
+    
+}
+
+.item-4 {
+    width: 50%;
+    background-color: green;
+    height: 250px;
+    max-width: 475px;
+    margin-left: 1025px;
+    margin-top: -250px;
+   
+    
+}
+
